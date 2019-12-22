@@ -17,6 +17,7 @@
 - [Salvador-Cuevas] (https://github.com/Jeroo)
 - Angelica
 - [Emir] (https://github.com/EmirVatric)
+- [Leonard] (https://github.com/leonard-9500)
 - [Erin] (https://github.com/erniekins)
 - [Tenzin Ngawang] (https://github.com/Tenzin1010)
 - [Simon Shapiro] (https://github.com/Simon-Shapiro)
